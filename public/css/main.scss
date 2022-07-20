@@ -1,0 +1,52 @@
+
+.left-grid{
+    padding-top: 5%;
+  }
+  .icon{
+    vertical-align: bottom;
+  }
+  .cardicons svg{
+    font-size: 13px;
+    vertical-align: middle;
+  }
+  .cardicons .cardtext{
+    font-size: 10px;
+  }
+  .graytext{
+    color: #7F7C88;
+    font-size: 12px;
+  }
+  .subheading{
+    font-size: 13px;
+    margin-bottom: 3% !important;
+  }
+  .heading{
+    font-size: 1rem !important;
+    font-weight: 600 !important;
+  }
+  .rating{
+    margin-left:3%;
+    display:inline;
+  }
+  .css-ha3bif-MuiTimelineItem-root:before{
+    content: none !important;
+  }
+
+  .nav-link:hover,.active{
+color: white;
+  }
+  
+  
+  .numberInput {
+    .ui.button {
+      background-color: transparent !important;
+      border: none;
+      color: black;
+    }
+    .ui.input > input {
+    
+    color: black;
+    font-weight: bold;
+    width: 50px;
+  }
+}
